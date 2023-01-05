@@ -1,1 +1,1 @@
-App para React Native, Calculadora con el diseño de IOS 
+Calculadora creada en React Native.
